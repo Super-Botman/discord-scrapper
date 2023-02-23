@@ -1,0 +1,25 @@
+{
+  "name": "bot_dysnome",
+  "version": "1.0.0",
+  "description": "a little bot to extract all links from a channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "dysnome",
+    "scrapping",
+    "bot"
+  ],
+  "author": "Botman",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "type": "module"
+}
